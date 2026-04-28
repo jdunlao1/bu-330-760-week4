@@ -81,5 +81,4 @@ These decisions ensured the agent ran successfully and produced correct results.
 2. Add your API key to `.env`  
 3. Run:
 
-```bash
 python3 agent.py
